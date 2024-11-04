@@ -1,5 +1,17 @@
-## 🦊 Hi there, I'm Charlie
+## 👋 Hello, I'm Charlie
 
-### 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/2ncc)](https://badges.pufler.dev)
 
-![Alt Text](https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif)
+### Currently
+- 🔨 Working on OGNAME.xyz
+- 📚 Learning Golang, design patterns & optimization techniques
+- 🎯 Building stuff that matters
+
+### Tech Stack
+- 💻 Languages: Golang, Python
+- 🗄️ Databases: PostgreSQL, MySQL, SQLite
+- 🚀 DevOps: Docker, Digitalocean, GitHub Actions
+
+### Connect with Me
+- 📫 Email: CharlieZith@protonmail.com
+- 🎮 Discord: @2ncc
