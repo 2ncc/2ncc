@@ -13,7 +13,6 @@
 - 🚀 DevOps: Docker, Digitalocean, GitHub Actions
 
 ### Connect with Me
-- 📫 Email: CharlieZith@protonmail.com
 - 🎮 Discord: @2ncc
 
 
