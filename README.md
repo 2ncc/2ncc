@@ -3,7 +3,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/2ncc)](https://badges.pufler.dev) 
 
 ### Currently
-- 🔨 Working on OGNAME.xyz
+- 🔨 Working on [OGNAME.xyz](https://github.com/ogname-xyz/)
 - 📚 Learning Golang, design patterns & optimization techniques
 - 🎯 Building stuff that matters
 
